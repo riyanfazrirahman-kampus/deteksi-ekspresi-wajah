@@ -1,4 +1,0 @@
-streamlit==1.43.2
-opencv-python
-numpy==1.24.3
-tensorflow==2.18.0
